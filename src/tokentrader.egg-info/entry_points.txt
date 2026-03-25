@@ -1,0 +1,2 @@
+[console_scripts]
+tokentrader-web = tokentrader.server:run_server
